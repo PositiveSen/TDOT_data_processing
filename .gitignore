@@ -29,18 +29,37 @@ venv/
 env/
 ENV/
 
-# Large data files
-Data/TDOT_data.csv
-Data/*.csv
-output/pavement_marking_data.csv
-output/pavement_marking_predictions.csv
-*.tmp
-*.cache
+# Data files - EXCLUDE ALL DATA
+Data/
+*.csv
+*.txt
+*.json
+
+# Output files - EXCLUDE ALL OUTPUT
+output/
+catboost_info/
+
+# Large files
+*.gz
+*.zip
+*.tar
+*.pdf
+
+# Model files
+*.pkl
+*.joblib
+*.model
+*.cbm
+
+# Logs
+*.log
+*.tsv
 
 # OS files
 .DS_Store
 Thumbs.db
 *~
+*.Identifier
 
 # IDE
 .vscode/
@@ -51,16 +70,5 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 
-# Large files
-*.gz
-*.zip
-*.tar
-*.pdf
-
-# Logs
-*.log
-
-# Model files (optional - uncomment if you don't want to track models)
-# *.pkl
-# *.joblib
-# *.model
+# Images
+*.png
