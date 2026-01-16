@@ -99,10 +99,17 @@ xgboost (for compatibility testing)
 
 ## Data Requirements
 
-- **TDOT_data.csv**: Main dataset with pavement marking records
+> **Note**: Large data files (TDOT_data.csv ~115MB) are excluded from the repository due to size constraints. The processed data and model outputs are available in the `output/` directory.
+
+- **TDOT_data.csv**: Main dataset with pavement marking records (excluded from repo)
 - **Categorical columns**: item_description, primary_county
 - **Numerical columns**: project_qty, award_year, award_month
 - **Target variable**: unit_cost
+
+### Getting Started
+1. Obtain the TDOT_data.csv file and place it in the `Data/` directory
+2. Run the preprocessing scripts to generate the required categorized data files
+3. Execute the main training pipeline
 
 ## Model Architecture
 

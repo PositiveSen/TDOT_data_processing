@@ -29,7 +29,11 @@ venv/
 env/
 ENV/
 
-# Data files (keeping original data but ignoring processed files)
+# Large data files
+Data/TDOT_data.csv
+Data/*.csv
+output/pavement_marking_data.csv
+output/pavement_marking_predictions.csv
 *.tmp
 *.cache
 
