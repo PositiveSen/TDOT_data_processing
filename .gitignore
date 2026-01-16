@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Data files - EXCLUDE ALL DATA
+Data/
+*.csv
+*.txt
+*.json
+
+# Output files - EXCLUDE ALL OUTPUT
+output/
+catboost_info/
+
+# Large files
+*.gz
+*.zip
+*.tar
+*.pdf
+
+# Model files
+*.pkl
+*.joblib
+*.model
+*.cbm
+
+# Logs
+*.log
+*.tsv
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+*.Identifier
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Images
+*.png
