@@ -1,0 +1,196 @@
+Item Number,Item Description,U/M Type,U/M,Item Class,Item Type
+716-01.05,Temporary Raised Pavement Marker,EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-01.22,Snowplowable Raised Pavment Markers (Mono-Dir)(1 Color),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-01.06,"Temporary Raised Pavement Marker,White",EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-01.07,"Temporary Raised Pavement Marker,Yellow",EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-01.12,Raised Pvmt Markers (Mono-Directional) (1 Color Lens),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-01.13,Raised Pvmt Markers (Bi-Directional) (2 Color Lens),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-01.11,Raised Pvmt Markers (Bi-Directional) (1 Color Lens),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-01.14,Raised Pavement Marker Removal,EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-01.21,Snowplowable Raised Pavement Markers (Bi-Dir) (1 Color),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-01.23,Snowplowable Raised Pavement Markers (Bi-Dir)(2 Color),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-01.30,Removal Of Snowplowable Reflective Marker,EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-01.40,Remove And Replace Lens On Snowplowable Reflective Marker,EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-02.03,Plastic Pavement Marking (Cross-Walk),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-02.05,Plastic Pavement Marking (Stop Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-02.04,Plastic Pavement Marking(Channelization Striping),S.Y.,Square Yard,Pavement Marking,Plastic-Thermal
+716-02.06,Plastic Pavement Marking (Turn Lane Arrow),EACH,Each,Pavement Marking,Plastic-Thermal
+716-02.08,"Plastic Pavement Marking (8"" Dotted Line)",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-02.07,"Plastic Pavement Marking (24"" Barrier Line)",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-02.09,Plastic Pavement Marking (Longitudinal Cross-Walk),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-02.11,"Plastic Pavement Marking (6"" Dotted Line)",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-02.12,Plastic Pavement Marking (8In Line),L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-02.22,Plastic Aerial Speed Bars,L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-02.15,Plastic Pavement Marking (U Turn Arrow),EACH,Each,Pavement Marking,Plastic-Thermal
+716-02.24,Plastic Pavement Marking (12In Dwl),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-02.23,Plastic Pavement Marking (12In Barrier Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-02.30,"Retracing Pavement Markings - Plastic (4"" Line)",L.M.,Linear Mile,Pavement Marking,Painted
+716-02.31,"Retracing Pavement Markings - Plastic (8"" Barrier Line)",L.F.,Linear Feet,Pavement Marking,Painted
+716-02.32,"Retracing Pavement Markings - Plastic (6"" Line)",L.M.,Linear Mile,Pavement Marking,Painted
+716-02.33,Retracing Pavement Markings - Plastic (Dotted Line),L.F.,Linear Feet,Pavement Marking,Painted
+716-03.01,Plastic Word Pavement Marking (Only),EACH,Each,Pavement Marking,Plastic-Thermal
+716-03.02,Plastic Word Pavement Marking (Rxr),EACH,Each,Pavement Marking,Plastic-Thermal
+716-03.03,Plastic Word Pavement Marking (Stop Ahead),EACH,Each,Pavement Marking,Plastic-Thermal
+716-03.05,Plastic Word Pavement Marking (Bike Lane),EACH,Each,Pavement Marking,Plastic-Thermal
+716-03.04,Plastic Word Pavement Marking (School),EACH,Each,Pavement Marking,Plastic-Thermal
+716-03.06,Plastic Word Pavement Marking (Signal Ahead),EACH,Each,Pavement Marking,Plastic-Thermal
+716-03.07,Plastic Word Pavement Marking (Stop),EACH,Each,Pavement Marking,Plastic-Thermal
+716-03.08,Plastic Word Pavement Marking (Ped-Xing),EACH,Each,Pavement Marking,Plastic-Thermal
+716-03.09,Plastic Word Pavement Marking (                      ),EACH,Each,Pavement Marking,Plastic-Thermal
+716-03.10,Plastic Word Pavement Marking (                      ),EACH,Each,Pavement Marking,Plastic-Thermal
+716-03.11,Plastic Word Pavement Marking (                      ),EACH,Each,Pavement Marking,Plastic-Thermal
+716-03.12,Plastic Pvmt Marking (Description),EACH,Each,Pavement Marking,Plastic-Preformed
+716-03.13,Plastic Pvmt Marking (No Trucks This Lane),EACH,Each,Pavement Marking,Plastic-Preformed
+716-04.01,Plastic Pavement Marking (Straight-Turn Arrow),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.02,Plastic Pavement Marking(Double Turning Arrow),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.04,Plastic Pavement Marking (Transverse Shoulder),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-04.03,"Plastic Pavement Marking (4"" Dotted Line)",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-04.05,Plastic Pavement Marking (Straight Arrow),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.06,Plastic Pavement Marking (Wrong Way Arrow),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.07,Plastic Pavement Marking (Exit Only Arrow),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.08,Plastic Pavement Marking (Option Lane Arrow),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.09,Plastic Pavement Marking (H.O.V. Diamond),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.10,Plastic Pavement Marking (Handicap Symbol),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.11,Plastic Pavement Marking (Bicycle Symbol W/Rider),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.12,Plastic Pavement Marking (Yield Line),S.F.,Square Feet,Pavement Marking,Plastic-Thermal
+716-04.14,Plastic Pavement Marking (Lane Reduction Arrow),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.13,Plastic Pavement Marking (Bikelane Symbol & Arrow),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.15,Plastic Pavement Marking-Bike Symbol/Arrow Shared,EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.16,Plastic Pavement Marking (Noise Strip),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-04.17,Plastic Pavement Marking (Yield Symbol),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.18,Plastic Pavement Marking (Bike/Xing),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.21,Green Textured Bike Lane,S.Y.,Square Yard,Pavement Marking,Plastic-Thermal
+716-04.23,Plastic Pavement Marking (Fish-Hooks With 1 Arrow),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.24,Plastic Pavement Marking (Fish-Hooks With 2 Arrows),EACH,Each,Pavement Marking,Plastic-Thermal
+716-04.25,Plastic Pavement Marking (Fish-Hooks With 3 Arrows),EACH,Each,Pavement Marking,Plastic-Thermal
+716-05.01,"Painted Pavement Marking (4"" Line)",L.M.,Linear Mile,Pavement Marking,Painted
+716-05.02,"Painted Pavement Marking (8"" Barrier Line)",L.F.,Linear Feet,Pavement Marking,Painted
+716-05.03,Painted Pavement Marking (Cross-Walk),L.F.,Linear Feet,Pavement Marking,Painted
+716-05.04,Painted Pavement Marking (Channelization Striping),S.Y.,Square Yard,Pavement Marking,Painted
+716-05.05,Painted Pavement Marking (Stop Line),L.F.,Linear Feet,Pavement Marking,Painted
+716-05.06,Painted Pavement Marking (Turn Lane Arrow),EACH,Each,Pavement Marking,Painted
+716-05.07,"Painted Pavement Marking (24"" Barrier Line)",L.F.,Linear Feet,Pavement Marking,Painted
+716-05.08,Painted Pavement Marking (Parking Line),L.F.,Linear Feet,Pavement Marking,Painted
+716-05.09,Painted Pavement Marking(Straight-Turn Arrow),EACH,Each,Pavement Marking,Painted
+716-05.10,Painted Pavement Marking (Rxr),EACH,Each,Pavement Marking,Painted
+716-05.11,Painted Pavement Marking(Straight Arrow),EACH,Each,Pavement Marking,Painted
+716-05.12,"Painted Pavement Marking (Contrast 6"" Line)",L.M.,Linear Mile,Pavement Marking,Painted
+716-05.13,"Painted Pavement Marking (Contrast 8"" Line)",L.M.,Linear Mile,Pavement Marking,Painted
+716-05.14,"Painted Pavement Marking (Contrast Shadow Marking 6"")",L.M.,Linear Mile,Pavement Marking,Painted
+716-05.20,"Painted Pavement Marking (6"" Line)",L.M.,Linear Mile,Pavement Marking,Painted
+716-05.15,"Painted Pavement Marking (Contrast Shadow Marking 8"")",L.M.,Linear Mile,Pavement Marking,Painted
+716-05.21,"Painted Pavement Marking(4""Dotted Line)",L.F.,Linear Feet,Pavement Marking,Painted
+716-05.22,Painted Pavement Marking (Longitudinal Cross-Walk),L.F.,Linear Feet,Pavement Marking,Painted
+716-05.23,"Painted Pavement Marking (4""Line)",L.F.,Linear Feet,Pavement Marking,Painted
+716-05.49,"Painted Pavement Markings(8"" Line)",L.M.,Linear Mile,Pavement Marking,Painted
+716-05.50,"Painted Pavement Markings(8"" Line)",L.F.,Linear Feet,Pavement Marking,Painted
+716-05.51,"Painted Pavement Markings(12"" Line)",L.F.,Linear Feet,Pavement Marking,Painted
+716-05.52,Painted Pavement Marking(Area),S.F.,Square Feet,Pavement Marking,Painted
+716-05.69,Performance Based Retracing Painted 4In Line,L.M.,Linear Mile,Pavement Marking,Painted
+716-05.71,Performance Based Retracing Painted 8In Line,L.F.,Linear Feet,Pavement Marking,Painted
+716-05.70,Performance Based Retracing Painted 6In Line,L.M.,Linear Mile,Pavement Marking,Painted
+716-05.73,Performance Based Retracing Spray Thermo 6In,L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-05.72,Performance Based Retracing Spray Thermo 4In,L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-05.74,Performance Based Retracing Spray Thermo 8In,L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-05.77,Performance Based Retracing Painted 6In Dotted Line,L.F.,Linear Feet,Pavement Marking,Painted
+716-05.75,Performance Based Retracing Spray Thermo 6In Dotted,L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-05.79,Performance Based Retracing Spray Thermo 12In,L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-05.81,Performance Based Retracing Spray Thermo 12In Dotted,L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-05.80,Performance Based Retracing Spray Thermo 8In Dotted,L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-05.82,Performance Based Retracing Painted 8In Dotted,L.F.,Linear Feet,Pavement Marking,Painted
+716-06.01,Painted Word Pvmt Mark (           ),EACH,Each,Pavement Marking,Painted
+716-08.01,Removal Of Pavement Marking (Line),L.F.,Linear Feet,Pavement Marking,Pavement Marking Misc.
+716-08.02,"Removal Of Pavement Marking (8"" Barrier Line)",L.F.,Linear Feet,Pavement Marking,Pavement Marking Misc.
+716-08.03,Removal Of Pavement Marking (Cross-Walk),L.F.,Linear Feet,Pavement Marking,Pavement Marking Misc.
+716-08.04,Removal Of Pavement Marking (Channelization Striping),S.Y.,Square Yard,Pavement Marking,Pavement Marking Misc.
+716-08.05,Removal Of Pavement Marking (Stop Line),L.F.,Linear Feet,Pavement Marking,Pavement Marking Misc.
+716-08.06,Removal Of Pavement Marking (Turn Lane Arrow),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.07,Removal Of Pavement Marking (Straight-Turn Arrow),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.09,Removal Of Pavement Marking (Dotted Line),L.F.,Linear Feet,Pavement Marking,Pavement Marking Misc.
+716-08.08,Removal Of Pavement Marking (Double Turning Arrow),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.10,Removal Of Pavement Marking (Transverse Shoulder),L.F.,Linear Feet,Pavement Marking,Pavement Marking Misc.
+716-08.11,Removal Of Word Pavement Marking (Description),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.13,Removal Of Word Pavement Marking (Description),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.12,Removal Of Word Pavement Marking (Description),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.14,Removal Of Word Pavement Marking (Description),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.15,Removal Of Word Pavement Marking (Description),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.16,Removal Of Word Pavement Marking (Description),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.17,Removal Of Word Pavement Marking (Description),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.18,Removal Of Pavement Marking (Wrong Way Arrow),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.19,Removal Of Pavement Marking (Yield Line),S.F.,Square Feet,Pavement Marking,Pavement Marking Misc.
+716-08.20,Removal Of Pavement Marking (Line),L.M.,Linear Mile,Pavement Marking,Pavement Marking Misc.
+716-08.21,Removal Of Pavement Marking (24In Barrier Line),L.F.,Linear Feet,Pavement Marking,Pavement Marking Misc.
+716-08.22,Removal Of Pavement Marking (Noise Strip),L.F.,Linear Feet,Pavement Marking,Pavement Marking Misc.
+716-08.23,Removal Of Pavement Marking (Straight Arrow),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.24,Removal Of Pavement Marking (Lane Reduction Arrow),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.25,Removal Of Pavement Marking (Shield),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.30,Hydroblast Removal Of Pavement Marking (Line),L.M.,Linear Mile,Pavement Marking,Pavement Marking Misc.
+716-08.31,Hydroblast Removal Of Pavement Marking (Description),L.M.,Linear Mile,Pavement Marking,Pavement Marking Misc.
+716-08.32,Hydroblast Removal Of Pavement Marking (Description),L.F.,Linear Feet,Pavement Marking,Pavement Marking Misc.
+716-08.33,Hydroblast Removal Of Pavement Marking (Description),EACH,Each,Pavement Marking,Pavement Marking Misc.
+716-08.34,Hydroblast Removal Of Pavement Marking (Description),S.Y.,Square Yard,Pavement Marking,Pavement Marking Misc.
+716-09.02,"Wet Reflec. Pvmt Marking(8""Barrier Line)",L.F.,Linear Feet,Pavement Marking,Plastic-Preformed
+716-09.03,"Wet Reflective Pavement Marking(6"" Line)",L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-09.30,Wet Reflective Channelization Striping,S.Y.,Square Yard,Pavement Marking,Plastic-Thermal
+716-09.32,Exit Only Arrow,EACH,Each,Pavement Marking,Plastic-Thermal
+716-09.33,6 Inch Dotted Line,L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-09.42,"Contrast Pavement Marking 6"" (Tape)",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-09.43,"Contrast Pavement Marking 6"" (Tape)",L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-09.44,"Contrast Pavement Marking 8"" (Tape)",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-09.45,"Contrast Pavement Marking 8"" (Tape)",L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-09.56,"Contrast Pvmt Shadow Marking 4"" (Tape)",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-09.57,"Contrast Pvmt Shadow Marking 6"" (Tape)",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-09.58,"Contrast Pvmt Shadow Marking 6"" (Tape)",L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-09.60,"Contrast Pvt Shadow Marking 8"" (Tape)",L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-09.59,"Contrast Pvt Shadow Marking 8"" (Tape)",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-09.72,"Wet Reflective Pavememt Marking (4""Line)",L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-09.83,"Contrast Pavement Marking 6""",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-09.84,"Contrast Pavement Marking 8""",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-09.85,"Contrast Pavement Marking 4""",L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-09.86,"Contrast Pavement Marking 6""",L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-09.88,"Contrast Pavement Marking 8""",L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-09.89,"Contrast Pavement Marking 12""",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-09.87,Contrast Pavement Markings Words And Symbols,EACH,Each,Pavement Marking,Plastic-Thermal
+716-09.94,"Contrast Pavement Shadow Marking 6""",L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-09.90,"Contrast Pavement Marking 6"" Dotted",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-09.95,"Contrast Pavement Shadow Marking 8""",L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-09.97,"Contrast Pavement Shadow Marking 6""",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-09.98,"Contrast Pavement Shadow Marking 8""",L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-10.50,Preformed Plastic Pavement Marking (Interstate Shield),EACH,Each,Pavement Marking,Plastic-Preformed
+716-10.07,Preformed Plastic Pavement Marking (Stop Line),L.F.,Linear Feet,Pavement Marking,Plastic-Preformed
+716-10.51,Prfrmed Plstc Pvmnt Mrkng (State Shld),EACH,Each,Pavement Marking,Plastic-Preformed
+716-10.52,Prfrmed Plstc Pvmnt Mrkng (Us Shld),EACH,Each,Pavement Marking,Plastic-Preformed
+716-12.01,Enhanced Flatline Thermo  Pvmt Mrkng (4In Line),L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-12.02,Enhanced Flatline Thermo  Pvmt Mrkng (6In Line),L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-12.03,Enhanced Flatline Thermo  Pvmt Mrkng (8In Barrier Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-12.04,Enhanced Flatline Thermo  Pvmt Mrkng (4In Dotted Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-12.05,Enhanced Flatline Thermo  Pvmt Mrkng (6In Dotted Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-12.08,Enhanced Flat Line Thermo (12In Barrier Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-12.07,Enhanced Flat Line Thermo (8In Broken Ln),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-12.06,Enhanced Flat Line Thermo (8In Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-12.09,Enhanced Flat Line Thermo (12In Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-12.10,Enhanced Flat Line Thermo (12In Dotted),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-13.01,Spray Thermo Pvmt Mrkng (60 Mil) (4In Line),L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-13.02,Spray Thermo Pvmt Mrkng (60 Mil) (6In Line),L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-13.03,Spray Thermo Pvmt Mrkng (60 Mil) (8In Barrier Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-13.04,Spray Thermo Pvmt Mrkng (60 Mil) (4In Dotted Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-13.05,Spray Thermo Pvmt Mrkng (60 Mil) (6In Dotted Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-13.06,Spray Thermo Pvmt Mrkng (40 Mil) (4In Line),L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-13.07,Spray Thermo Pvmt Mrkng (40 Mil) (6In Line),L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-13.08,Spray Thermo Pvmt Mrkng (40 Mil) (8In Barrier Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-13.09,Spray Thermo Pvmt Mrkng (40 Mil) (4In Dotted Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-13.10,Spray Thermo Pvmt Mrkng (40 Mil) (6In Dotted Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-13.11,Spray Thermo Pvmt Mrkng (60 Mil 12In Barrier Line),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-14.01,Profiled Thermo Pvmt Mrkng Audible (4In),L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-14.02,Profiled Thermo Pvmt Mrkng Audible (6In),L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-15.10,Preformed Permanent Tape (6In Line),L.F.,Linear Feet,Pavement Marking,Plastic-Preformed
+716-15.11,Preformed Permanent Tape (8In Line),L.F.,Linear Feet,Pavement Marking,Plastic-Preformed
+716-15.12,Preformed Permanent Tape (12In Line),L.F.,Linear Feet,Pavement Marking,Plastic-Preformed
+716-15.20,Preformed Permanent Tape (24In Barrier Line),L.F.,Linear Feet,Pavement Marking,Plastic-Preformed
+716-40.02,Polyurea Pavement Markings-Words-Symbols,EACH,Each,Pavement Marking,Plastic-Thermal
+716-40.01,Polyurea Pavement Marking (6In Line),L.M.,Linear Mile,Pavement Marking,Plastic-Thermal
+716-40.03,Polyurea Pavement Marking (Stop Bar),L.F.,Linear Feet,Pavement Marking,Plastic-Thermal
+716-40.41,Grooving For Recessed Pavement Marking (Dotted Line),L.F.,Linear Feet,Pavement Marking,Pavement Marking Misc.
+716-40.42,Grooving For Recessed Pavement Marking (Solid),L.M.,Linear Mile,Pavement Marking,Pavement Marking Misc.
+716-50.01,Roadway Cleaning For Pavement Marking,L.M.,Linear Mile,Pavement Marking,Pavement Marking Misc.
+716-80.01,Protective Bollards,EACH,Each,Pavement Marking,Pavement Marking Misc.

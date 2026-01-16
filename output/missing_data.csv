@@ -1,0 +1,14 @@
+contract_number,county,project_description,project_length,project_length_unit
+CNP924,DAVIDSON,The slope stabilization and construction of a graded solid rock buttress on I-65 NB between log mile 16.1 and 16.2.,0.000,MILES
+CNP925,KNOX,"The installation of signals on S.R. 168 at the intersection of U.S. 441 (S.R. 71, Chapman Highway) (L.M. 6.96).",0.098,MILES
+CNP288,BEDFORD,"The construction of bridges on S.R. 130 over branch (L.M. 4.77, L.M. 5.45 and L.M. 9.83), and over Sugar Creek (L.M. 8.30), including grading, drainage and paving.",0.454,MILES
+CNP268,COFFEE,"The grading, drainage and paving on a S.I.A. route serving XP Services, Inc. in Tullahoma.",0.290,MILES
+CNP283,DAVIDSON,The installation of an overhead sign structure on I-24 westbound (L.M. 11.98).,0.000,MILES
+CNP284,FRANKLIN,The repair of the bridges on S.R. 476 over the Elk River (L.M. 3.39) and Hurricane Creek (L.M. 7.40).,0.000,MILES
+CNP230,HAMILTON,"The grading, drainage, paving, construction of bridges, ramps and retaining walls on I-124 (U.S. 27) from the I-24/I-124 interchange to south of the Olgiati bridge in Chattanooga.",1.623,MILES
+CNP287,JEFFERSON,"The construction of a welded steel plate girder bridge on S.R. 92 over the French Broad River in Dandridge (L.M. 9.16), including grading, drainage and paving.",0.569,MILES
+CNP122,MONROE,"The installation of left turn lanes on S.R. 68 at the intersections of Happy Hollow Road (L.M. 16.91), and Eleazar Road (L.M. 20.01).",0.400,MILES
+CNP291,MOORE,The repair of the bridge on S.R. 129 over branch (L.M. 2.51).,0.000,MILES
+CNP190,SMITH,The repair of two bridges on S.R. 80 over Peyton's Creek (L.M. 5.75 and L.M. 7.00).,0.113,MILES
+CNP256,SUMNER,"The grading, drainage, construction of a concrete I-beam bridge and paving on Greenlea Boulevard from S.R. 386 (Vietnam Veterans Boulevard) to S.R. 174 (Long Hollow Pike).",0.537,MILES
+CNP294,WILLIAMSON,"The repair of the bridges on S.R. 840 over Boston-Theta Road (L.M. 13.58 and L.M. 13.60), and over Sycamore Creek (L.M. 15.94).",0.506,MILES

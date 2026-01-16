@@ -1,0 +1,25 @@
+{
+  "model_name": "Pavement Marking Price Prediction - CatBoost",
+  "train_period": "2014-2024",
+  "test_period": "2025",
+  "total_records": 87392,
+  "train_records": 80145,
+  "test_records": 7247,
+  "train_metrics": {
+    "mae": 441.025230960529,
+    "rmse": 2964.2818011808185,
+    "r2": 0.5201796938190845
+  },
+  "test_metrics": {
+    "mae": 675.2727688867982,
+    "rmse": 3129.1603587003956,
+    "r2": 0.6692430422966873
+  },
+  "model_parameters": {
+    "iterations": 1000,
+    "learning_rate": 0.05,
+    "depth": 6,
+    "early_stopping_rounds": 50,
+    "best_iteration": 324
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "dataset_summary": {
+    "total_records": 87392,
+    "unique_items": 182,
+    "unique_counties": 95,
+    "year_range": "2014-2025",
+    "date_range": "2014-2025"
+  },
+  "price_statistics": {
+    "min": 0.05,
+    "max": 258590.0,
+    "mean": 1259.5487399304286,
+    "median": 36.0,
+    "std": 4390.374150309491,
+    "percentile_25": 12.0,
+    "percentile_75": 529.7
+  },
+  "quantity_statistics": {
+    "min": 0.01,
+    "max": 638880.0,
+    "mean": 978.7001011305383,
+    "median": 45.0,
+    "std": 8750.396271666357
+  }
+}
