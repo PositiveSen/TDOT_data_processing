@@ -51,6 +51,7 @@ Thumbs.db
 *.gz
 *.zip
 *.tar
+*.pdf
 
 # Logs
 *.log
