@@ -29,15 +29,19 @@ venv/
 env/
 ENV/
 
-# Data files - EXCLUDE ALL DATA
-Data/
-*.csv
-*.txt
-*.json
+# Data files - EXCLUDE ALL DATA except README
+Data/*
+!Data/README.md
 
-# Output files - EXCLUDE ALL OUTPUT
-output/
+# Output files - EXCLUDE ALL OUTPUT except README  
+output/*
+!output/README.md
 catboost_info/
+
+# CSV and JSON files
+*.csv
+*.txt  
+*.json
 
 # Large files
 *.gz
