@@ -29,13 +29,11 @@ venv/
 env/
 ENV/
 
-# Data files - EXCLUDE ALL DATA except README
-Data/*
-!Data/README.md
+# Data files - EXCLUDE ENTIRE DIRECTORY
+Data/
 
-# Output files - EXCLUDE ALL OUTPUT except README  
-output/*
-!output/README.md
+# Output files - EXCLUDE ENTIRE DIRECTORY  
+output/
 catboost_info/
 
 # CSV and JSON files
