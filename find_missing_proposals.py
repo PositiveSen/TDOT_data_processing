@@ -3,7 +3,7 @@ import os
 
 # Load bid tabs contracts
 print("Loading bid tabs data...")
-bid_tabs = pd.read_csv('output/bid_tabs_data.csv')
+bid_tabs = pd.read_csv('Data/project_data.csv')
 print(f'Found {bid_tabs["contract_number"].nunique()} unique contracts in bid_tabs_data.csv')
 
 # Load and merge missing data if available

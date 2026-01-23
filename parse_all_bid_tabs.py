@@ -25,14 +25,17 @@ for idx, pdf_path in enumerate(pdf_files, 1):
     # extract_bid_info now returns a list of dictionaries (one per contract)
     contracts_info = extract_bid_info(pdf_path)
     
-    # Debug: Check for empty results
-    if contracts_info and any(c.get('contract_number') is None for c in contracts_info):
-        print(f"  WARNING: No contracts found")
-    else:
-        print(f"  Found {len([c for c in contracts_info if c.get('contract_number')])} contracts")
+    # Filter out empty or invalid contract info
+    valid_contracts = [c for c in contracts_info if c.get('contract_number') is not None]
     
-    # Add relative path for reference to each contract
-    for info in contracts_info:
+    # Debug: Check for empty results
+    if not valid_contracts:
+        print(f"  WARNING: No valid contracts found in this PDF")
+    else:
+        print(f"  Found {len(valid_contracts)} valid contracts")
+    
+    # Add relative path for reference to each valid contract
+    for info in valid_contracts:
         info['file_path'] = os.path.relpath(pdf_path)
         results.append(info)
 
