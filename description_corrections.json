@@ -1,0 +1,81 @@
+{
+  "description_corrections": {
+    "abbreviations": {
+      "PVMT": "PAVEMENT",
+      "MRKNG": "MARKING",
+      "THERMO": "THERMOPLASTIC",
+      "PREFRMD": "PREFORMED",
+      "W/": "WITH",
+      "YEL": "YELLOW",
+      "WHT": "WHITE",
+      "FLAT LINE": "FLATLINE",
+      "flat line": "flatline"
+    },
+    "regex_patterns": [
+      {
+        "pattern": "\\b(\\d+)\\s*[\"']\\s*",
+        "replacement": "\\1 INCH ",
+        "reason": "Standardize inch measurements from quotes to INCH"
+      },
+      {
+        "pattern": "\\b(\\d+)\\s*IN\\b",
+        "replacement": "\\1 INCH",
+        "reason": "Standardize IN to INCH"
+      },
+      {
+        "pattern": "\\b(\\d+)\\s*INCHES?\\b",
+        "replacement": "\\1 INCH",
+        "reason": "Standardize INCH/INCHES to INCH"
+      },
+      {
+        "pattern": "\\b(\\d+\\.\\d+)\\s*[\"']\\s*",
+        "replacement": "\\1 INCH ",
+        "reason": "Standardize decimal inch measurements"
+      },
+      {
+        "pattern": "\\b(\\d+\\.\\d+)\\s*IN\\b",
+        "replacement": "\\1 INCH",
+        "reason": "Standardize decimal IN to INCH"
+      },
+      {
+        "pattern": "\\b(\\d+\\.\\d+)\\s*INCHES?\\b",
+        "replacement": "\\1 INCH",
+        "reason": "Standardize decimal INCH/INCHES to INCH"
+      },
+      {
+        "pattern": "\\s+",
+        "replacement": " ",
+        "reason": "Normalize whitespace"
+      }
+    ],
+    "feature_normalization": {
+      "flat_line": "flatline",
+      "flat line": "flatline", 
+      "fltlne": "flatline",
+      "flt_line": "flatline",
+      "4inch": "4_inch",
+      "6inch": "6_inch",
+      "8inch": "8_inch", 
+      "12inch": "12_inch",
+      "4\"": "4_inch",
+      "6\"": "6_inch",
+      "8\"": "8_inch",
+      "12\"": "12_inch",
+      "reflec": "reflective",
+      "reflctv": "reflective",
+      "remove": "removal",
+      "remv": "removal",
+      "rmv": "removal", 
+      "replace": "replacement",
+      "replc": "replacement",
+      "rplc": "replacement",
+      "wet_night_visible": "wet_reflective",
+      "wet night visible": "wet_reflective",
+      "word_marking": "word",
+      "word marking": "word",
+      "enhanced": "enhanced",
+      "enhncd": "enhanced", 
+      "enhcd": "enhanced"
+    }
+  }
+}

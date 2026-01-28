@@ -1,0 +1,27 @@
+{
+  "filtering_rules": {
+    "716_pavement_markings": {
+      "exclude_patterns": [
+        {"pattern": "716-99.*", "reason": "Generic items"}
+      ],
+      "exclude_specific_items": [
+        {
+          "items": ["716-08.31", "716-08.32", "716-08.33", "716-08.34", "716-08.11", "716-08.12", "716-08.13", "716-08.14", "716-08.15", "716-08.16", "716-08.17"], 
+          "reason": "Removal items"
+        }
+      ]
+    }
+  },
+  "global_filters": {
+    "exclude_patterns": [
+      {
+        "pattern": "999-.*",
+        "reason": "Test or miscellaneous items"
+      }
+    ],
+    "price_thresholds": {
+      "max_unit_price": 100000,
+      "reason": "Exclude unrealistic high prices"
+    }
+  }
+}

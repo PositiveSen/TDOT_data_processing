@@ -1,0 +1,147 @@
+{
+  "supplemental_classifications": {
+    "description": "Supplemental item classifications for missing items based on AI analysis of item descriptions and existing patterns",
+    "items": {
+      "716-01.10": {
+        "item_class": "Pavement Marking",
+        "item_type": "Pavement Marking Misc.",
+        "um_type": "EA",
+        "um": "EA",
+        "reasoning": "Snowplowable reflective marker - hardware/marker type"
+      },
+      "716-01.99": {
+        "item_class": "Pavement Marking",
+        "item_type": "Pavement Marking Misc.",
+        "um_type": "EA",
+        "um": "EA",
+        "reasoning": "Round raised pavement marker - hardware/marker type"
+      },
+      "716-02.01": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Preformed",
+        "um_type": "LF",
+        "um": "LF",
+        "reasoning": "Plastic pavement marking (100mm LINE) - plastic material, specific size"
+      },
+      "716-02.02": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Preformed",
+        "um_type": "LF",
+        "um": "LF",
+        "reasoning": "Plastic pavement marking (200mm BARRIER LINE) - plastic material, barrier type"
+      },
+      "716-02.10": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Preformed",
+        "um_type": "LF",
+        "um": "LF",
+        "reasoning": "Plastic pavement marking (150mm LINE) - plastic material, specific size"
+      },
+      "716-02.13": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Preformed",
+        "um_type": "SF",
+        "um": "SF",
+        "reasoning": "Plastic pavement marking (CROSSWALK) - plastic material, crosswalk"
+      },
+      "716-05.64": {
+        "item_class": "Pavement Marking",
+        "item_type": "Painted",
+        "um_type": "LF",
+        "um": "LF",
+        "reasoning": "Retracing pavement markings - painted (6\" DOTTED LINE) - explicitly mentions painted"
+      },
+      "716-09.79": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Thermal",
+        "um_type": "LF",
+        "um": "LF",
+        "reasoning": "Thermoplastic pavement mark profile line (4\") - thermoplastic material"
+      },
+      "716-09.80": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Thermal",
+        "um_type": "LF",
+        "um": "LF",
+        "reasoning": "Thermoplastic pavement mark profile line (6\") - thermoplastic material"
+      },
+      "716-10.15": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Preformed",
+        "um_type": "SF",
+        "um": "SF",
+        "reasoning": "Preformed plastic pavement marking (NO TRUCKS THIS LANE) - preformed plastic, message sign"
+      },
+      "716-10.23": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Preformed",
+        "um_type": "LF",
+        "um": "LF",
+        "reasoning": "Preformed plastic pavement marking 4IN LINE W/1.5IN BLACK SILHOUETTE - preformed plastic"
+      },
+      "716-10.26": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Thermal",
+        "um_type": "LF",
+        "um": "LF",
+        "reasoning": "Wet night visible pavement marking (6\" DOTTED LINE) - advanced visibility feature"
+      },
+      "716-10.30": {
+        "item_class": "Pavement Marking",
+        "item_type": "Pavement Marking Misc.",
+        "um_type": "SF",
+        "um": "SF",
+        "reasoning": "Truncated dome detectable warning mat - accessibility hardware"
+      },
+      "716-10.40": {
+        "item_class": "Pavement Marking",
+        "item_type": "Pavement Marking Misc.",
+        "um_type": "EA",
+        "um": "EA",
+        "reasoning": "Remove & replace lens on snowplow reflective marker - marker maintenance"
+      },
+      "716-11.01": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Thermal",
+        "um_type": "LF",
+        "um": "LF",
+        "reasoning": "Spray thermo pavement marking (4IN LINE) - spray thermoplastic"
+      },
+      "716-13.12": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Thermal",
+        "um_type": "LF",
+        "um": "LF",
+        "reasoning": "Spray thermo pavement marking (60 mil) (6IN BLACK LEAD-LAG LINE) - spray thermoplastic"
+      },
+      "716-15.01": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Thermal",
+        "um_type": "SF",
+        "um": "SF",
+        "reasoning": "Yellow textured buffer - textured thermoplastic"
+      },
+      "716-16.10": {
+        "item_class": "Pavement Marking",
+        "item_type": "Plastic-Preformed",
+        "um_type": "SF",
+        "um": "SF",
+        "reasoning": "Preformed yield word (8FT W/ 1 ½IN BLACK CONTRAST) - preformed word marking"
+      },
+      "716-99.50": {
+        "item_class": "Pavement Marking",
+        "item_type": "Pavement Marking Misc.",
+        "um_type": "LS",
+        "um": "LS",
+        "reasoning": "Design-build striping/pavement markings - generic/catch-all"
+      },
+      "716-99.51": {
+        "item_class": "Pavement Marking",
+        "item_type": "Pavement Marking Misc.",
+        "um_type": "LS",
+        "um": "LS",
+        "reasoning": "Design-build pavement marking maintenance - generic maintenance"
+      }
+    }
+  }
+}

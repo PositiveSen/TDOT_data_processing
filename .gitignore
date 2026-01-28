@@ -8,10 +8,6 @@ build/
 develop-eggs/
 dist/
 downloads/
-
-# JSON files in subfolders (but allow JSON in root)
-*/**.json
-*/*.json
 eggs/
 .eggs/
 lib/
